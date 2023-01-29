@@ -1,0 +1,47 @@
+{
+    "ftxClassicPair": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "BNB/USDT",
+        "XRP/USDT",
+        "SOL/USDT",
+        "BAT/USDT",
+        "CHZ/USDT",
+        "DOGE/USDT",
+        "MATIC/USDT",
+        "AVAX/USDT"
+    ],
+    "hitbtc2018": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "LTC/USDT",
+        "ADA/USDT",
+        "TRX/USDT",
+        "ETC/USDT",
+        "ENJ/USDT",
+        "XRP/USDT",
+        "ZEC/USDT",
+        "DOGE/USDT",
+        "XTZ/USDT",
+        "DASH/USDT",
+        "XMR/USDT",
+        "EOS/USDT",
+        "IOTA/USDT",
+        "XEM/USDT",
+        "QTUM/USDT",
+        "XLM/USDT",
+        "NEO/USDT",
+        "ZRX/USDT",
+        "OMG/USDT",
+        "XVG/USDT",
+        "BTG/USDT",
+        "ZIL/USDT"
+    ],
+    "binanceTop5":[
+        "BTC/USDT",
+        "ETH/USDT",
+        "BNB/USDT",
+        "SOL/USDT",
+        "ADA/USDT"
+    ]
+}
